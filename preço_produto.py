@@ -6,9 +6,10 @@ def preço_produto():
     ##n2 = n2
     ##n3 = n3
         #valor = valor
-    valor =  n2 / n3
-   #preço_produto()
+    valor = ( n2 / n3)
+    preço_produto()
     print("o preço cheio do(a)", n1, "é: ", valor)
     
 
 preço_produto()
+
